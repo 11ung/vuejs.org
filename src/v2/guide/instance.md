@@ -148,6 +148,6 @@ Các hook khác như [`mounted`](../api/#mounted), [`updated`](../api/#updated),
 
 ## Sơ đồ vòng đời
 
-Dưới đây là sơ đồ vòng đời của một đối tượng Vue. Ngay lúc này thì bạn chưa cần hiểu mọi thứ trong đây, nhưng dần dần về sau khi bạn học và xây dựng thêm với Vue, sơ đồ này sẽ là một nguồn tham khảo rất hữu ích.
+Dưới đây là sơ đồ vòng đời của một đối tượng Vue. Ngay lúc này thì bạn chưa cần hiểu mọi thứ trong đây, nhưng dần dần về sau khi bạn học và xây dựng thêm với Vue, sơ đồ này sẽ là một nguồn tham khảo rất hữu ích. cc
 
 ![Vòng đời của một đối tượng Vue](/images/lifecycle.png)
